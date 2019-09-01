@@ -30,7 +30,7 @@ aliyun:
         System.out.println(checkResults);
         return checkResults;
 ```
-####文本检测
+#### 文本检测
 ```
         List<TextTask> list = new LinkedList<>();
         list.add(new TextTask("测试文字"));
