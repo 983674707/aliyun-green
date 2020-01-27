@@ -1,3 +1,11 @@
+#### pom.xml 引入
+```
+        <dependency>
+            <groupId>com.msop</groupId>
+            <artifactId>green</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+```
 #### application.yml 配置
 ```
 aliyun:
