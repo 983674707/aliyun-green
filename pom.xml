@@ -19,7 +19,7 @@
         <aliyun.sdk.core>4.1.1</aliyun.sdk.core>
         <aliyun.sdk.green>3.4.1</aliyun.sdk.green>
         <aliyun.sdk.oss>2.8.3</aliyun.sdk.oss>
-        <alibaba.fastjson>1.2.51</alibaba.fastjson>
+        <alibaba.fastjson>1.2.83</alibaba.fastjson>
     </properties>
 
     <dependencies>
